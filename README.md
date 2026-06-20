@@ -53,8 +53,7 @@ Add a screenshot of your calculator here:
 - Calculation history
 
 ## Author
-
-Your Name
+Riddhi Ramachandran
 
 ## License
 
