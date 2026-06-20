@@ -41,7 +41,8 @@ git clone https://github.com/your-username/calculator.git
 
 ## Screenshot
 
-<img width="582" height="598" alt="image" src="https://github.com/user-attachments/assets/195d7083-b8fc-446f-82be-98ade3df59f3" />
+<img width="582" height="598" alt="image" src="https://github.com/user-attachments/assets/bbef1daa-ffd6-4691-9c76-da8efe39b85b" />
+
 
 
 
